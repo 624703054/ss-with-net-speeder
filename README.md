@@ -1,1 +1,1 @@
-ss-with-net-speeder from github source based on lowid/ss-with-net-speeder
+Shadowsocks from latest source with net-speeder based on lowid/ss-with-net-speeder
