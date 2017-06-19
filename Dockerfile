@@ -5,7 +5,7 @@ MAINTAINER chengzy
 RUN apt-get update && \
     apt-get install -y python-pip libnet1 libnet1-dev libpcap0.8 libpcap0.8-dev git
 
-RUN pip install https://github.com/shadowsocks/shadowsocks/archive/master.zip
+#RUN pip install https://github.com/shadowsocks/shadowsocks/archive/master.zip
 
 #RUN git clone https://github.com/snooda/net-speeder.git net-speeder
 #WORKDIR net-speeder
